@@ -1,7 +1,7 @@
 function myintro(){
-    let intro= {fname:'Shrawan',
-    lname:'KC', 
-    address:'Balaju',
+    let intro= {fname:'Nabin',
+    lname:'Lama', 
+    address:'Manamaiju',
     age:23}
     return intro;
 }
